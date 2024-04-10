@@ -1,0 +1,15 @@
+{
+  "name": "complete-backend",
+  "version": "1.0.0",
+  "description": "a complete backend project to learn everything about backend !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "Backend"
+  ],
+  "author": "Kumar_Saurav_Saksena",
+  "license": "ISC"
+}
