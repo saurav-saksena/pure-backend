@@ -12,5 +12,8 @@
     "Backend"
   ],
   "author": "Kumar_Saurav_Saksena",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
